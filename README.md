@@ -8,6 +8,5 @@
 - 📫 How to reach me: eneserdogan.66@outlook.com
 
 
-- [LinkedIn: muhammed-enes-erdoğan](https://www.linkedin.com/in/muhammed-enes-erdoğan/)
-[![linkedin](https://user-images.githubusercontent.com/60261458/98373220-fcc1da00-204f-11eb-8ddb-9271d80785f6.png)(https://www.linkedin.com/in/muhammed-enes-erdoğan/)]
+[LinkedIn: muhammed-enes-erdoğan](https://www.linkedin.com/in/muhammed-enes-erdoğan/)
 
