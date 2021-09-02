@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate android developer</h3>
 
+- 🔭 I’m currently working on **Android Programming**
+
+- 🌱 I’m currently learning **Java, Kotlin.**
+
+- 👯 I’m looking to collaborate on **Java, Kotlin and Flutter.**
+
+- 🤝 I’m looking for help with **RxJava, Coroutines and more! I'm open to learning.**
+
+- 💬 Ask me about **anything.**
+
 - 📫 How to reach me **eneserdogan.66@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
