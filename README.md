@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Android Programming**
 
-- 🌱 I’m currently learning **Java, Kotlin.**
+- 🌱 I’m currently learning **Swift.**
 
-- 👯 I’m looking to collaborate on **Java, Kotlin and Flutter.**
+- 👯 I’m looking to collaborate on **Java, Kotlin and Swift.**
 
 - 🤝 I’m looking for help with **RxJava, Coroutines and more! I'm open to learning.**
 
