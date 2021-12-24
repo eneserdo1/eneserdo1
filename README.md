@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Swift.**
 
-- 👯 I’m looking to collaborate on **Java, Kotlin and Swift.**
-
-- 🤝 I’m looking for help with **RxJava, Coroutines and more! I'm open to learning.**
+- 👯 I’m looking to collaborate on **Kotlin and Swift.**
 
 - 💬 Ask me about **anything.**
 
