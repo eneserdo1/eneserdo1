@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Android Programming**
 
-- 🌱 I’m currently learning **Swift.**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Kotlin and Swift.**
+- 👯 I’m looking to collaborate on **Kotlin.**
 
 - 💬 Ask me about **anything.**
 
