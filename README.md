@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A passionate android developer</h3>
+<h1 align="center">Hi 👋 I'm Enes Erdoğan</h1>
 
-- 🔭 I’m currently working on **Android Programming**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Kotlin.**
-
-- 💬 Ask me about **anything.**
-
-- 📫 How to reach me **eneserdogan.66@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammed-enes-erdoğan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-enes-erdoğan" height="30" width="40" /></a>
+<p align="center">
+Android Developer focused on building scalable and modern mobile applications with Kotlin & Jetpack Compose.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+<p align="center">
+5+ years of experience in Native Android development, modern architectures, and production-grade mobile engineering.
+</p>
 
+---
+
+### 🚀 About Me
+
+* 📱 Building modern Android applications with Kotlin and Jetpack Compose
+* 🏗 Focused on scalable architectures, clean code, and maintainable systems
+* ⚡ Experienced with MVVM, MVI, Coroutines, Flow, and modern Android development practices
+* 🔄 Worked on large-scale mobile projects and migration processes
+* 🧠 Interested in mobile performance, UI/UX quality, and product engineering
+
+---
+
+### 🛠 Tech Stack
+
+#### Android
+
+* Kotlin
+* Jetpack Compose
+* MVVM / MVI
+* Coroutines & Flow
+* Hilt
+* Retrofit
+* Firebase
+
+#### Additional Experience
+
+* React Native
+* TypeScript
+* Java
+
+#### Tools & CI/CD
+
+* Git
+* Gradle
+* Bitrise
+* Azure DevOps
+* AppCenter
+
+---
+
+### 📫 Contact
+
+* LinkedIn: linkedin.com/in/muhammed-enes-erdoğan
+* Email: [eneserdogan.66@outlook.com](mailto:eneserdogan.66@outlook.com)
