@@ -1,54 +1,37 @@
 <h1 align="center">Hi 👋 I'm Enes Erdoğan</h1>
 
 <p align="center">
-Android Developer focused on building scalable and modern mobile applications with Kotlin & Jetpack Compose.
+  <strong>Android Developer</strong>
 </p>
 
 <p align="center">
-5+ years of experience in Native Android development, modern architectures, and production-grade mobile engineering.
+  5+ years of experience building production-grade native Android applications with Kotlin and modern Android architecture.
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-* 📱 Building modern Android applications with Kotlin and Jetpack Compose
-* 🏗 Focused on scalable architectures, clean code, and maintainable systems
-* ⚡ Experienced with MVVM, MVI, Coroutines, Flow, and modern Android development practices
-* 🔄 Worked on large-scale mobile projects and migration processes
-* 🧠 Interested in mobile performance, UI/UX quality, and product engineering
+* 📱 Native Android development with **Kotlin & Jetpack Compose**
+* 🏗 **MVVM, MVI, Clean Architecture, Coroutines/Flow & Hilt**
+* 🧪 Focused on **code quality, testing, performance, and maintainability**
+* 🔄 Experience with **React Native, TypeScript, and mobile migrations**
+* 🚀 **CI/CD, production support, and release management**
 
 ---
 
 ### 🛠 Tech Stack
 
-#### Android
+**Android:** Kotlin, Java, Jetpack Compose, Android Jetpack, Coroutines/Flow, Hilt, Retrofit, Firebase
 
-* Kotlin
-* Jetpack Compose
-* MVVM / MVI
-* Coroutines & Flow
-* Hilt
-* Retrofit
-* Firebase
+**Architecture:** MVVM, MVI, Clean Architecture, Design Patterns
 
-#### Additional Experience
+**Cross-Platform:** React Native, TypeScript
 
-* React Native
-* TypeScript
-* Java
-
-#### Tools & CI/CD
-
-* Git
-* Gradle
-* Bitrise
-* Azure DevOps
-* AppCenter
+**CI/CD:** GitHub Actions, Bitrise, Google Play Console
 
 ---
 
 ### 📫 Contact
 
-* LinkedIn: linkedin.com/in/muhammed-enes-erdoğan
-* Email: [eneserdogan.66@outlook.com](mailto:eneserdogan.66@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/muhammed-enes-erdoğan) · [Email](mailto:eneserdogan.66@outlook.com) · [GitHub](https://github.com/eneserdo1)
